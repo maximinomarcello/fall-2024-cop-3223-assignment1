@@ -90,7 +90,7 @@ double calculateHeight()
     
     return 5.0;
 }
-int main (void)
+int main (int argc, char**argv)
 {
     calculateDistance();
     calculatePerimeter();
